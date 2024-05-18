@@ -1,4 +1,4 @@
-# NotDelayedAnymore 不在拖堂
+# NotDelayedAnymore 不再拖堂
 
 一款基于`Python+Tkinter`的防拖堂软件，使用基于简单公式的随机密码进行解锁，有效防止大部分老师（仅针对无键盘环境）
 
